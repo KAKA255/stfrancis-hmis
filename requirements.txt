@@ -1,5 +1,2 @@
-
 Flask
 gunicorn
-flask_sqlalchemy
-pdfkit
