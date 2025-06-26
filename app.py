@@ -1,8 +1,10 @@
 
-from flask import Flask
+from flask import Flask, render_template
 app = Flask(__name__)
-@app.route("/")
-def hello():
-    return "St. Francis Mission Hospital HMIS is live!"
-if __name__ == "__main__":
+
+@app.route('/')
+def home():
+    return render_template('dashboard.html')
+
+if __name__ == '__main__':
     app.run()
