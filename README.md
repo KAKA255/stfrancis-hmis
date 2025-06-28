@@ -1,2 +1,2 @@
-# St. Francis HMIS
-Final deployable version with dashboard and logo.
+# St. Francis HMIS (Fresh)
+Dashboard, registration, patient list.
