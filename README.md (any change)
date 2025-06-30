@@ -1,2 +1,0 @@
-# St. Francis HMIS
-Full deployment package with logo.
